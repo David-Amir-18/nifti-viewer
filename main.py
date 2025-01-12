@@ -1,7 +1,7 @@
 import sys
 import numpy as np
 import itk
-import vtk
+import vtk # for 3d processing
 from PyQt5.QtWidgets import (
     QApplication, QMainWindow, QLabel, QSlider, QFrame, QVBoxLayout, QHBoxLayout, QWidget,
     QFileDialog, QPushButton, QToolBar, QStatusBar, QMessageBox, QTabWidget, QGroupBox
